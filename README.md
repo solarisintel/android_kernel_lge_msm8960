@@ -1,1 +1,2 @@
-# android_kernel_lge_msm8960
+## Japanase OptimusG(L01E/LGL21) kernel For Android 8.1
+
